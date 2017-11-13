@@ -1,0 +1,18 @@
+Przeszukiwany tekst: abbaaabababbabbbaaa
+
+Szukany podciag: abba
+Chamskie
+0 9 
+
+Bez chamskiego
+0 9 
+
+Przeszukiwany tekst: abbaaabababbabbbaaa
+
+Szukany podciag: bbba
+Chamskie
+13 
+
+Bez chamskiego
+13 
+

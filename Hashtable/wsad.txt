@@ -1,0 +1,56 @@
+4
+size 10
+add 13 ala
+add 23 ola
+add 14 marcin
+add 17 marta
+add 19 liwia
+add 29 ala
+add 15 ola
+add 25 marcin
+add 39 marta
+add 35 liwia
+delete 23
+print
+stop
+size 10
+add 13 ala
+print
+add 23 ola
+print
+delete 13
+print
+stop
+size 12
+add 39 martasad
+add 35 liwiadsa
+add 25 liwis
+print
+add 33 liwiadsdsasa
+print
+stop
+size 11
+add 27 A
+add 38 B
+add 116 C
+add 161 D
+add 96 E
+print
+delete 27
+print
+delete 96
+delete 116
+delete 38
+print
+delete 161
+add 373 K
+add 230 L
+print
+delete 373
+print
+add 361 M
+add 119 N
+print
+delete 361
+print
+stop

@@ -1,0 +1,47 @@
+0 29 ala
+1 39 marta
+3 13 ala
+4 14 marcin
+5 15 ola
+6 25 marcin
+7 17 marta
+8 35 liwia
+9 19 liwia
+
+3 13 ala
+
+3 23 ola
+
+3 23 ola
+
+1 25 liwis
+3 39 martasad
+11 35 liwiadsa
+
+1 25 liwis
+3 39 martasad
+9 33 liwiadsdsasa
+11 35 liwiadsa
+
+5 38 B
+6 116 C
+7 161 D
+8 96 E
+
+5 38 B
+6 116 C
+7 161 D
+8 96 E
+
+7 161 D
+
+10 230 L
+
+10 230 L
+
+9 119 N
+10 230 L
+
+9 119 N
+10 230 L
+

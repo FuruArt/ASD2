@@ -1,0 +1,11 @@
+1
+size 10
+add 27 A
+add 38 B
+add 116 C
+add 161 D
+add 96 E
+print
+delete 27
+print
+stop

@@ -1,0 +1,24 @@
+Przeszukiwany tekst: 14159265359 14159265359 321
+
+Szukany podciag: 59
+HW: DLUGOSC 2 dla : 59
+5 53
+Hasz wynosi : 530
+9 57
+Hasz wynosi : 587
+dokladne
+3 9 15 21 
+
+Przeszukiwany tekst: 14159265359 14159265359 321
+
+Szukany podciag: 159
+HW: DLUGOSC 3 dla : 159
+1 49
+Hasz wynosi : 4900
+5 53
+Hasz wynosi : 5430
+9 57
+Hasz wynosi : 5487
+dokladne
+2 14 
+

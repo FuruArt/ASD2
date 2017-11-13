@@ -1,0 +1,170 @@
+Przeszukiwany tekst: ala ma lale
+14159265359 14159265359 321
+
+HW : DLUGOSC dla wyrazu al 2
+a 97
+Hasz wynosi : 970
+l 108
+Hasz wynosi : 1078
+H0 : DLUGOSC dla wyrazu al 2
+a 97
+Hasz wynosi : 970
+l 108
+Hasz wynosi : 1078
+1078  1078
+H0 : DLUGOSC 2 dla : al
+Hasz wynosi : 970
+H0 : DLUGOSC 1 dla : al
+Hasz wynosi : 1078
+H1 : DLUGOSC 2 dla : la
+Hasz wynosi : 1188
+H1 : DLUGOSC 1 dla : la
+Hasz wynosi : 1188
+H2 : DLUGOSC 2 dla : a 
+Hasz wynosi : 108
+H2 : DLUGOSC 1 dla : a 
+Hasz wynosi : 108
+H3 : DLUGOSC 2 dla :  m
+Hasz wynosi : -862
+H3 : DLUGOSC 1 dla :  m
+Hasz wynosi : -862
+H4 : DLUGOSC 2 dla : ma
+Hasz wynosi : -1182
+H4 : DLUGOSC 1 dla : ma
+Hasz wynosi : -1182
+H5 : DLUGOSC 2 dla : a 
+Hasz wynosi : -2272
+H5 : DLUGOSC 1 dla : a 
+Hasz wynosi : -2272
+H6 : DLUGOSC 2 dla :  l
+Hasz wynosi : -3242
+H6 : DLUGOSC 1 dla :  l
+Hasz wynosi : -3242
+H7 : DLUGOSC 2 dla : la
+Hasz wynosi : -3562
+H7 : DLUGOSC 1 dla : la
+Hasz wynosi : -3562
+H8 : DLUGOSC 2 dla : al
+Hasz wynosi : -4642
+H8 : DLUGOSC 1 dla : al
+Hasz wynosi : -4642
+H9 : DLUGOSC 2 dla : le
+Hasz wynosi : -5612
+H9 : DLUGOSC 1 dla : le
+Hasz wynosi : -5612
+H10 : DLUGOSC 2 dla : e
+
+Hasz wynosi : -6692
+H10 : DLUGOSC 1 dla : e
+
+Hasz wynosi : -6692
+H11 : DLUGOSC 2 dla : 
+1
+Hasz wynosi : -7702
+H11 : DLUGOSC 1 dla : 
+1
+Hasz wynosi : -7702
+H12 : DLUGOSC 2 dla : 14
+Hasz wynosi : -7802
+H12 : DLUGOSC 1 dla : 14
+Hasz wynosi : -7802
+H13 : DLUGOSC 2 dla : 41
+Hasz wynosi : -8292
+H13 : DLUGOSC 1 dla : 41
+Hasz wynosi : -8292
+H14 : DLUGOSC 2 dla : 15
+Hasz wynosi : -8812
+H14 : DLUGOSC 1 dla : 15
+Hasz wynosi : -8812
+H15 : DLUGOSC 2 dla : 59
+Hasz wynosi : -9302
+H15 : DLUGOSC 1 dla : 59
+Hasz wynosi : -9302
+H16 : DLUGOSC 2 dla : 92
+Hasz wynosi : -9832
+H16 : DLUGOSC 1 dla : 92
+Hasz wynosi : -9832
+H17 : DLUGOSC 2 dla : 26
+Hasz wynosi : -10402
+H17 : DLUGOSC 1 dla : 26
+Hasz wynosi : -10402
+H18 : DLUGOSC 2 dla : 65
+Hasz wynosi : -10902
+H18 : DLUGOSC 1 dla : 65
+Hasz wynosi : -10902
+H19 : DLUGOSC 2 dla : 53
+Hasz wynosi : -11442
+H19 : DLUGOSC 1 dla : 53
+Hasz wynosi : -11442
+H20 : DLUGOSC 2 dla : 35
+Hasz wynosi : -11972
+H20 : DLUGOSC 1 dla : 35
+Hasz wynosi : -11972
+H21 : DLUGOSC 2 dla : 59
+Hasz wynosi : -12482
+H21 : DLUGOSC 1 dla : 59
+Hasz wynosi : -12482
+H22 : DLUGOSC 2 dla : 9 
+Hasz wynosi : -13012
+H22 : DLUGOSC 1 dla : 9 
+Hasz wynosi : -13012
+H23 : DLUGOSC 2 dla :  1
+Hasz wynosi : -13582
+H23 : DLUGOSC 1 dla :  1
+Hasz wynosi : -13582
+H24 : DLUGOSC 2 dla : 14
+Hasz wynosi : -13902
+H24 : DLUGOSC 1 dla : 14
+Hasz wynosi : -13902
+H25 : DLUGOSC 2 dla : 41
+Hasz wynosi : -14392
+H25 : DLUGOSC 1 dla : 41
+Hasz wynosi : -14392
+H26 : DLUGOSC 2 dla : 15
+Hasz wynosi : -14912
+H26 : DLUGOSC 1 dla : 15
+Hasz wynosi : -14912
+H27 : DLUGOSC 2 dla : 59
+Hasz wynosi : -15402
+H27 : DLUGOSC 1 dla : 59
+Hasz wynosi : -15402
+H28 : DLUGOSC 2 dla : 92
+Hasz wynosi : -15932
+H28 : DLUGOSC 1 dla : 92
+Hasz wynosi : -15932
+H29 : DLUGOSC 2 dla : 26
+Hasz wynosi : -16502
+H29 : DLUGOSC 1 dla : 26
+Hasz wynosi : -16502
+H30 : DLUGOSC 2 dla : 65
+Hasz wynosi : -17002
+H30 : DLUGOSC 1 dla : 65
+Hasz wynosi : -17002
+H31 : DLUGOSC 2 dla : 53
+Hasz wynosi : -17542
+H31 : DLUGOSC 1 dla : 53
+Hasz wynosi : -17542
+H32 : DLUGOSC 2 dla : 35
+Hasz wynosi : -18072
+H32 : DLUGOSC 1 dla : 35
+Hasz wynosi : -18072
+H33 : DLUGOSC 2 dla : 59
+Hasz wynosi : -18582
+H33 : DLUGOSC 1 dla : 59
+Hasz wynosi : -18582
+H34 : DLUGOSC 2 dla : 9 
+Hasz wynosi : -19112
+H34 : DLUGOSC 1 dla : 9 
+Hasz wynosi : -19112
+H35 : DLUGOSC 2 dla :  3
+Hasz wynosi : -19682
+H35 : DLUGOSC 1 dla :  3
+Hasz wynosi : -19682
+H36 : DLUGOSC 2 dla : 32
+Hasz wynosi : -20002
+H36 : DLUGOSC 1 dla : 32
+Hasz wynosi : -20002
+H37 : DLUGOSC 2 dla : 21
+Hasz wynosi : -20512
+H37 : DLUGOSC 1 dla : 21
+Hasz wynosi : -20512

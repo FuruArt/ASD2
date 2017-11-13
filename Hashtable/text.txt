@@ -1,0 +1,13 @@
+1
+size 10
+add 13 ala
+print
+add 24 ola
+print
+add 33 kasia
+print
+add 43 basia
+print
+delete 13
+print
+stop

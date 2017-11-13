@@ -1,0 +1,5 @@
+2
+tekst2.txt
+59
+tekst2.txt
+159
